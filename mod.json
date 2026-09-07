@@ -1,0 +1,28 @@
+{
+    "geode": "v4.0.0",
+    "gd": {
+        "android": "2.2081"
+    },
+    "id": "tinymiracle.voiddash",
+    "name": "VoidDash",
+    "version": "v1.0.0",
+    "developer": "TinyMiracle",
+    "description": "Lightweight QoL and performance menu for Geometry Dash 2.2081.",
+    "settings": {
+        "fps-cap": {
+            "type": "int",
+            "name": "FPS Cap",
+            "default": 60
+        },
+        "low-memory": {
+            "type": "bool",
+            "name": "Low Memory Mode",
+            "default": true
+        },
+        "safe-mode": {
+            "type": "bool",
+            "name": "Auto Safe Mode",
+            "default": true
+        }
+    }
+}
